@@ -80,9 +80,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/Tentennnn/TEN-RainbowBot/issues/2) in [Tentennnn/TEN-RainbowBot](https://github.com/Tentennnn/TEN-RainbowBot)
+1. 🗣 Commented on [#4](https://github.com/Tentennnn/TEN-RainbowBot/issues/4) in [Tentennnn/TEN-RainbowBot](https://github.com/Tentennnn/TEN-RainbowBot)
 2. 🗣 Commented on [#2](https://github.com/Tentennnn/TEN-RainbowBot/issues/2) in [Tentennnn/TEN-RainbowBot](https://github.com/Tentennnn/TEN-RainbowBot)
-3. 🎉 Merged PR [#1](https://github.com/longlong5330/testproject/pull/1) in [longlong5330/testproject](https://github.com/longlong5330/testproject)
+3. 🗣 Commented on [#2](https://github.com/Tentennnn/TEN-RainbowBot/issues/2) in [Tentennnn/TEN-RainbowBot](https://github.com/Tentennnn/TEN-RainbowBot)
 4. 💪 Opened PR [#1](https://github.com/longlong5330/testproject/pull/1) in [longlong5330/testproject](https://github.com/longlong5330/testproject)
 5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
 <!--END_SECTION:activity-->
